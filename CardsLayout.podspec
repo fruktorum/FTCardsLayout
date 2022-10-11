@@ -28,8 +28,8 @@ Pod::Spec.new do |s|
   				   Custom Collection View Layout with simple card design.
                    DESC
 
-  s.homepage     = "https://github.com/filletofish/Cardslayout"
-  s.screenshots  = "https://github.com/filletofish/Cardslayout/blob/master/Animation.gif?raw=true"
+  s.homepage     = "https://github.com/fruktorum/FTCardsLayout"
+  s.screenshots  = "https://github.com/fruktorum/FTCardsLayout/blob/master/Animation.gif?raw=true"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/filletofish/Cardslayout.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/fruktorum/FTCardsLayout.git", :tag => "#{s.version}" }
   s.requires_arc = true
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

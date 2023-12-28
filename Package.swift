@@ -10,6 +10,6 @@ let package = Package(
         .library(name: "FTCardsLayout", targets: ["FTCardsLayout"])
     ],
     targets: [
-        .target(name: "FTCardsLayout", dependencies: [], path: "./"),
+        .target(name: "FTCardsLayout", dependencies: [], path: "./Sources"),
     ]
 )
